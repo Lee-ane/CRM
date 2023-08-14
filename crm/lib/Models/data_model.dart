@@ -42,7 +42,7 @@ class DataModel extends ChangeNotifier {
   }
 
   //Url
-  String urlhead = 'http://senvangsolutions.somee.com/api';
+  String urlhead = '';
   String getUrlHead() => urlhead;
 
   //Api key
